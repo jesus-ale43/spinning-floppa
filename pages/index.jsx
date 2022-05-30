@@ -4,7 +4,7 @@ import * as THREE from 'three';
 import { Canvas, extend, useThree, useFrame } from "@react-three/fiber";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 import { DragControls } from "three/examples/jsm/controls/DragControls";
-import CustomModel from "./gltf";
+import CustomModel from "../components/CustomModel";
 
 
 extend({ DragControls });
