@@ -1,4 +1,4 @@
-<div>
+<div style="display: flex; justify-content:center; align-items: center;">
     <p>
         Around the world around the world 
     </p>
